@@ -1,0 +1,18 @@
+usage: analysis.py [-h] (--demo | --prices PRICES | --download)
+                   [--start START] [--end END] [--output OUTPUT]
+                   [--annual-rf ANNUAL_RF] [--periods PERIODS]
+
+Public reimplementation of the documented 2025 asset-allocation project. Run
+--demo for reproducible synthetic prices, or --prices your_prices.csv.
+Synthetic outputs demonstrate the workflow and are not historical returns.
+
+options:
+  -h, --help            show this help message and exit
+  --demo
+  --prices PRICES
+  --download
+  --start START
+  --end END
+  --output OUTPUT
+  --annual-rf ANNUAL_RF
+  --periods PERIODS

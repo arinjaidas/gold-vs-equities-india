@@ -1,0 +1,157 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/gold-vs-equities-india",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 54,
+      "sha256": "7ae984b50ced7a800f4d97bc3f53471819f84860bbfc71a8658f1162a9f3fc95"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 764,
+      "sha256": "b917e776e6639460476c2618140225c618abdfe5e520a5059601fa0ecda8be40"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "226529a2f80dc277d24a19fc76db3779708389691b815cacf6c6dc27228fdcde"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 333,
+      "sha256": "eb6d7d725e7828c119af1c26b98401fbc16888225500649d23aa55ccbe70e38a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 366,
+      "sha256": "13e0c68550d7ed6ae33ddc1079a71901c88f7d57ae5f331b07a093e66dcdb3da"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 607,
+      "sha256": "5bded38c45157b324f6c63e8ca9ed017d3f3068168eeffdc50b95cca1db2106a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3950,
+      "sha256": "b4d26e445cab7119dd715122eaec9a521d0ab431d601204d91095abd9daabfa0"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1306,
+      "sha256": "ab32c50024483cc46a6a79d2bb286cc7bfce6600f82a27f7f31a9314aae2e3c5"
+    },
+    {
+      "path": "analysis.py",
+      "bytes": 8302,
+      "sha256": "8bcae56955fb15f84d264351eda13087c4100f4a159f6a9d04be41f67fd0fa7d"
+    },
+    {
+      "path": "assets/header.svg",
+      "bytes": 718,
+      "sha256": "280a800944e9ddbebfbf1311d29c73a4c87176b1f75daa4c0b8390f32a07d2f9"
+    },
+    {
+      "path": "demo_output/allocation_comparison.csv",
+      "bytes": 4217,
+      "sha256": "c6efcd7be289e0ce984fa2d6828fc28fe0674cee47e60154244e899d623843f2"
+    },
+    {
+      "path": "demo_output/correlations.csv",
+      "bytes": 173,
+      "sha256": "83b7cc5778608fd0550b60d026735c2aaf7dc9f0483c7477c7d642c9bba1b275"
+    },
+    {
+      "path": "demo_output/growth.svg",
+      "bytes": 346680,
+      "sha256": "9deb78ea4e65cefb5aa207cce764ffd955775d620a53e86c0595c0ea5a0691d7"
+    },
+    {
+      "path": "demo_output/performance.csv",
+      "bytes": 1141,
+      "sha256": "bbb6f44adad6a50f1e2c3052380a9179aa021b4203661d2381c5c8d3e24608e4"
+    },
+    {
+      "path": "demo_output/rolling_5y_cagr.csv",
+      "bytes": 168812,
+      "sha256": "6f1a2b797cbc757eec057927c6db5750177e9ef87c35432f7a6a15854fe96ec8"
+    },
+    {
+      "path": "demo_output/run_metadata.json",
+      "bytes": 307,
+      "sha256": "25506d901d5326ff9692127572e352129efbf4f80a227b9a50ff621efb57f983"
+    },
+    {
+      "path": "demo_output/wealth.csv",
+      "bytes": 352037,
+      "sha256": "bafc83a02db022193f1aed381317189e1fcf4027738355f9d87a3d4fb344de7f"
+    },
+    {
+      "path": "docs/CLI.txt",
+      "bytes": 612,
+      "sha256": "64d371cf1d03a5e73f26b5938769978b94cc9fc756dbafe41e9e1a8d1af015c8"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 698,
+      "sha256": "b1c79a5937892750413c2bb1f79914890fdb224cc736468cd663c09a959ef6ce"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 1557,
+      "sha256": "ed9bede174ad2289f2f51b5ccfc6f711fe2d8b11f38875e86a3afe54372c4c2a"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 996,
+      "sha256": "281d7ce089fb3ff343cec6d8bff636984caf5b926ebf65cc1365554b1f2b5aad"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 357,
+      "sha256": "ac4c2b404d2e3b3771a82fb839ade342c41277249e5f6d605683f3419e3de960"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 886,
+      "sha256": "d609d43762b919cefbabb8b7ac51a26ae4389736c19b01d81b2867c510efa5a8"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 340,
+      "sha256": "0cd6b12ccaaac1b5818ea95933d0adaa901d8889017a6f838765445023148547"
+    },
+    {
+      "path": "docs/environment.json",
+      "bytes": 278,
+      "sha256": "c12143b6512ab77c7898db33d7d05dda805d20f6a8a41feb33906f0dd55ffae2"
+    },
+    {
+      "path": "notebooks/01_results_walkthrough.ipynb",
+      "bytes": 3475,
+      "sha256": "130072202b8f8622bde4d68117bdb883fbabb321e93bd3aa088b008812dcd3de"
+    },
+    {
+      "path": "requirements-download.txt",
+      "bytes": 34,
+      "sha256": "7fab65272e6166e24eddff38767cc2df024480d63b449a9c1e01a0c4fc0ab84a"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 40,
+      "sha256": "982c24839a17e4ed89742eb74690aca75fbf40aeb1247d88bd456aa37e2f1be2"
+    },
+    {
+      "path": "test_analysis.py",
+      "bytes": 1560,
+      "sha256": "65b4abd7da5e85fbbd768702e63404f5f3889d3f16e23a98ad0dd572c02d35bc"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}

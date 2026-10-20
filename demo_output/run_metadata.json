@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "annual_risk_free_rate": 0.0,
+  "periods_per_year": 252,
+  "transaction_costs": "not modelled",
+  "currency": "INR",
+  "sample_start": "2013-01-01",
+  "sample_end": "2025-12-31",
+  "interpretation": "Synthetic results are workflow examples, not historical investment performance."
+}
